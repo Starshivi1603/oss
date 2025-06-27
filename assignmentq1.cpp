@@ -8,6 +8,8 @@ int main(){
     int arr[n];
     float sum=0;
     for(int i=0;i<n;i++){
+
+        #obldrgdfdmofn
         cin>>arr[i];
         sum+=arr[i];
     }
